@@ -2,7 +2,7 @@
 
 #Deixar o XML identado
 
-File / Settings / Editor / Code Style / XML
+File / Settings / Editor / Code Style / XML:
 Marcar a opção: Use custom formatting settings for Android XML files
 
 #Localizar arquivo
